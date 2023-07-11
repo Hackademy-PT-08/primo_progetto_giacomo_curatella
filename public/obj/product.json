@@ -1,0 +1,96 @@
+{
+    "products" : [
+        {
+            "author" : "Marco Rossi",
+            "img" : "https://picsum.photos/600",
+            "price" : 1,
+            "size" : [
+                "Taglia Unica"
+            ],
+            "brand" : "Zara",
+            "like" : 4
+        },
+        {
+            "author" : "Simona Verdi",
+            "img" : "https://picsum.photos/601",
+            "price" : 5,
+            "size" : [
+                "XS",
+                "IT 38",
+                "EU 34"
+            ],
+            "brand" : "Champion",
+            "like" : 3
+        },
+        {
+            "author" : "Anna Rosa",
+            "img" : "https://picsum.photos/602",
+            "price" : 10,
+            "size" : [
+                "M",
+                "IT 42",
+                "EU 38"
+            ],
+            "brand" : "ORGVSM",
+            "like" : 17
+        },
+        {
+            "author" : "Luca Grigi",
+            "img" : "https://picsum.photos/603",
+            "price" : 6,
+            "size" : [
+                "L",
+                "IT 44",
+                "EU 40"
+            ],
+            "brand" : "Vintage Dressing",
+            "like" : 26
+        },
+        {
+            "author" : "Graziana Lombardi",
+            "img" : "https://picsum.photos/604",
+            "price" : 1,
+            "size" : [
+                "L",
+                "IT 44",
+                "EU 40"
+            ],
+            "brand" : "Diana Gallesi",
+            "like" : 4
+        },
+        {
+            "author" : "Serena180406",
+            "img" : "https://picsum.photos/605",
+            "price" : 2,
+            "size" : [
+                "Taglia Unica"
+            ],
+            "brand" : "Soul",
+            "like" : 1
+        },
+        {
+            "author" : "Harchalia",
+            "img" : "https://picsum.photos/606",
+            "price" : 5,
+            "size" : [
+                "XS",
+                "IT 38",
+                "EU 34"
+            ],
+            "brand" : "Primark",
+            "like" : 0
+        },
+        {
+            "author" : "FT259",
+            "img" : "https://picsum.photos/607",
+            "price" : 6,
+            "size" : [
+                "S",
+                "IT 40",
+                "EU 36"
+            ],
+            "brand" : "Anti Social Social Club",
+            "like" : 9
+        }
+    ]
+}

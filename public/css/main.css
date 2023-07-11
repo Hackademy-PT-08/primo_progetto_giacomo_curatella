@@ -1,0 +1,27 @@
+.hero {
+    height: 50vh;
+    background-image: url('/media/img/pexels-alexander-dummer-1912868.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.hero2 {
+    height: 40vh;
+    background-color: white;
+}
+
+.over {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    backdrop-filter: blur(2px);
+}
+
+.sponsor {
+    max-height: 5vh;
+}
